@@ -1,7 +1,9 @@
 <!-- REPOSITORY README IN MARKDOWN -->
 <!-- MADE BY ISHRAQ HASAN -->
 
-## Exploring Modern C++ 🚣🏻‍♀ ➡️ 🌊 ++
+# Exploring Modern C++
+
+### 🚣🏻‍♀ ➡️ 🌊 ++
 
 This repository is purely for self-learning, and not suitable for use in any kind of scenario but educational. You can use, modify and fork as you please.
 
