@@ -4,7 +4,7 @@
 # Exploring Modern C++
 
 <p align="center"> 
-<font size="15">🚣🏻‍♀ ⇨ 🌊 ++</font>
+<font size="15">🚣🏻‍ ⇨ 🌊 ++</font>
 </p>
 
 This repository is purely for self-learning, and not suitable for use in any kind of scenario but educational. You can use, modify and fork as you please.
