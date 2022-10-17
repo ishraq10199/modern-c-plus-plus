@@ -3,7 +3,9 @@
 
 # Exploring Modern C++
 
-### 🚣🏻‍♀ ➡️ 🌊 ++
+<p align="center"> 
+<h3>🚣🏻‍♀ ➡️ 🌊 ++<h3> 
+</p>
 
 This repository is purely for self-learning, and not suitable for use in any kind of scenario but educational. You can use, modify and fork as you please.
 
